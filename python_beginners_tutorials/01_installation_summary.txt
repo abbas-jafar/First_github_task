@@ -1,0 +1,13 @@
+Lecture 1
+
+1. Installation of python (chekc python --version at cmd) then install from the python.org
+2. run the code on cmd and python app prompt also.
+3. We can write the code on notepad file and later can save that with .py extension.
+4. Either can use notepad ++ for the file or writing a python program
+5. Directly run on cmd/python prompt with python file_name.py
+ or write python and pick the file towards cmd it will take path automatically
+6. with cd we can open folders from our window system either can create direct new folder mkdir folder_name
+7. Install IDE calling VScode and run at specific folder to open the vccode with code . command.
+8. at vscode install application called python.
+9. create new file and give name with .py at vscode.
+10. write the code and run the python program and enjoy.

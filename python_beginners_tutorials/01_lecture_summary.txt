@@ -1,0 +1,8 @@
+Lecture 2-python complete tutorial
+
+1. how to use operators in python like +, -, / etc.
+2. How to use strings (stings always with '', "", '''' ''')
+3. use of comments
+4. use of variables and types of variables like intergers and strings
+5. Use of input variable 
+6. 
